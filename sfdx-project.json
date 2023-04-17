@@ -1,0 +1,16 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app/from-server",
+      "default": true
+    },
+    {
+      "path": "force-app/demoapp/post-deploy",
+      "default": false
+    }
+  ],
+  "name": "devOps1",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
